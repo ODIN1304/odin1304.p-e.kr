@@ -3,7 +3,7 @@ odin1304.p-e.kr 관련 진행 및 여러가지
 
 # 1. 도메인 구매 및 설정
    ## 1) https://내도메인.한국 에서 도메인 구매
-![image](https://github.com/user-attachments/assets/09ed6f83-dc00-45ef-96d5-0cead5bb5791)
+![image](https://github.com/user-attachments/assets/1b040c64-b0a1-45d2-a39b-28326f98132b)
 # 2. 서버 목록
    ## 1) 서버 목록
 | hostname | IP | OS | ROLE |
